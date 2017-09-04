@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "./app/",
+        "outDir": "./bundle/",
+        "module": "commonjs",
+        "allowJs": true,
+        "importHelpers": false,
+        "moduleResolution": "node",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "types": []
+    },
+    "include": [
+        "**/@types/*.ts",
+        "**/*.ts"
+    ],
+    "exclude": [
+        "**/*.spec.ts",
+        "**/*.html",
+        "**/*.json",
+        "**/*.css"
+    ]
+}

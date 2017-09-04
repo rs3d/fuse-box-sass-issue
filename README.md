@@ -1,1 +1,5 @@
-fuse-box-sass-issue
+### fuse-box-sass-issue
+
+1. `yarn`
+2. `node fuse`
+

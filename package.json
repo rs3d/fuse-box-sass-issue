@@ -1,0 +1,33 @@
+{
+  "name": "fuse-box-sass-issue",
+  "version": "1.0.0",
+  "description": "FuseBox, Typescript and Sass",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs3d/fuse-box-sass-issue.git"
+  },
+  "keywords": [
+    "fuebox",
+    "typescript",
+    "sass"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rs3d/fuse-box-sass-issue/issues"
+  },
+  "homepage": "https://github.com/rs3d/fuse-box-sass-issue#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.26",
+    "fuse-box": "2.2.3",
+    "node-sass": "^4.5.3",
+    "typescript": "^2.5.2"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}

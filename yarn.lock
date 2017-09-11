@@ -704,9 +704,9 @@ fstream@^1.0.0, fstream@^1.0.10, fstream@^1.0.2:
     mkdirp ">=0.5 0"
     rimraf "2"
 
-fuse-box@2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/fuse-box/-/fuse-box-2.2.3.tgz#411cc10f55329a462a5e1641d6864953e89ec79a"
+fuse-box@2.3.1-test.1:
+  version "2.3.1-test.1"
+  resolved "https://registry.yarnpkg.com/fuse-box/-/fuse-box-2.3.1-test.1.tgz#70e4e82b773973c6007e3c1181898767e6f1cd44"
   dependencies:
     acorn "^5.0.3"
     acorn-es7 "^0.1.0"

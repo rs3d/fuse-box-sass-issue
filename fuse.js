@@ -18,7 +18,7 @@ const fuse = FuseBox.init({
   cache: false,
   sourceMaps: {
     inline: false,
-    sourceRoot: `/${basePath}`
+    sourceRoot: ``
   }
 });
 
